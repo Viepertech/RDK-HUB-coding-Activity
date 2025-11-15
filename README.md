@@ -140,3 +140,7 @@ Median: 5.0
     * A manually implemented sorting algorithm.
     * A median function that matches pseudocode.
     * A menu-based weather application with favourite-city limits (using Canadian spelling just for fun)
+
+## GitHub Actions
+
+![SBOM](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/sbom.yml/badge.svg)
