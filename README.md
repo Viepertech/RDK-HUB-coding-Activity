@@ -144,3 +144,4 @@ Median: 5.0
 ## GitHub Actions
 
 ![SBOM](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/sbom.yaml/badge.svg)
+![Python Lint](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/lint-python.yaml/badge.svg)
