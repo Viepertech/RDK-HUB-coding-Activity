@@ -96,4 +96,46 @@ City: London
   Wind Speed  : 5.2 m/s
 ```
 
+## Median Calculator
 
+A program that:
+* Implements selection sort manually.
+* Sorts the user-provided list in place.
+* Computes the median using the required pseudocode:
+    * Odd count → return middle value
+    * Even count → average the two middle values
+* Provides a simple and clear CLI.
+
+### Features Implemented
+
+* Custom sorting algorithm (selection sort).
+* Safe handling of:
+    * Empty input
+    * Invalid input
+    * Float or integer numbers
+* Fully documented functions with explanations of the algorithm.
+
+### Running the Median Calculator
+
+```python
+python median_calculator.py
+```
+
+Example Output:
+
+```bash
+Median Calculator (using a custom sorting function)
+Type numbers separated by spaces, for example: 10 2 5 7 1
+Numbers: 10 2 5 7 1
+Sorted numbers: [1.0, 2.0, 5.0, 7.0, 10.0]
+Median: 5.0
+```
+
+## Notes
+
+* Both programs are self-contained and require no external files or databases.
+* The code is intentionally written to be clear, readable, and beginner-friendly.
+* All logic strictly follows the assessment’s specifications, including:
+    * A manually implemented sorting algorithm.
+    * A median function that matches pseudocode.
+    * A menu-based weather application with favourite-city limits (using Canadian spelling just for fun)
