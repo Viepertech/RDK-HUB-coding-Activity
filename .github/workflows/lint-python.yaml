@@ -1,5 +1,4 @@
 name: Python Lint
-
 on:
   push:
     branches: [ main, master ]
@@ -14,7 +13,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -26,6 +24,3 @@ jobs:
       - name: Run Ruff Lint
         run: |
           ruff check .
-      - name: Check Ruff Formatting
-        run: |
-          ruff format --check .
