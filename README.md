@@ -145,3 +145,6 @@ Median: 5.0
 
 * ![SBOM](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/sbom.yaml/badge.svg)
 * ![Python Lint](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/lint-python.yaml/badge.svg)
+* ![Dependency Audit](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/dependency-audit.yaml/badge.svg)
+* ![Dependency Review](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/dependency-review.yaml/badge.svg)
+
