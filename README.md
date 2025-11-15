@@ -2,13 +2,15 @@
 This is for an RDK-HUB coding activity, upon request it will be made private. the project was done using python3.
 
 ## Weather CLI App & Median Calculator
+---
 
 This repository contains two small Python applications developed for the GCS Academy Coding Assessment:
 
-* **Weather CLI App** A menu-based program that retrieves real-time weather information using the OpenWeather API and allows managing up to three favourite cities.
-* **Median Calculator**  A program that implements a custom selection-sort algorithm and computes the median value of a list of numbers, following the provided pseudocode step-by-step.
+* **Weather CLI App**:  A menu-based program that retrieves real-time weather information using the OpenWeather API and allows managing up to three favourite cities.
+* **Median Calculator**:   A program that implements a custom selection-sort algorithm and computes the median value of a list of numbers, following the provided pseudocode step-by-step.
 
 ## Requirements
+---
 
 * Python 3.8 or later
 * Python requests library (for Weather CLI)
@@ -39,3 +41,14 @@ This repository contains two small Python applications developed for the GCS Aca
     ```powershell
     $env:OPENWEATHER_API_KEY = "your_api_key_here"
     ```
+
+## Project Structure
+---
+
+```bash
+.
+├── weather_app.py         # Weather CLI application (Activity 1)
+├── median_calculator.py   # Sorting + median calculator (Activity 2)
+└── README.md              # This documentation
+```
+
