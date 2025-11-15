@@ -143,4 +143,4 @@ Median: 5.0
 
 ## GitHub Actions
 
-![SBOM](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/sbom.yml/badge.svg)
+![SBOM](https://github.com/Viepertech/RDK-HUB-coding-Activity/actions/workflows/sbom.yaml/badge.svg)
