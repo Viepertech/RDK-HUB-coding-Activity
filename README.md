@@ -48,6 +48,7 @@ RDB-HUB-coding-Activity/
 ├── weather_app.py         # Weather CLI application (Activity 1)
 ├── median_calculator.py   # Sorting + median calculator (Activity 2)
 └── README.md              # This documentation
+└── README.md              # Text file containing python library dependencies
 ```
 
 ## Weather CLI App
